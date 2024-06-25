@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-backstage-public
+  annotations:
+    github.com/project-slug: susanta2022/example-backstage-public
+spec:
+  type: other
+  lifecycle: unknown
+  owner: susanta2022
