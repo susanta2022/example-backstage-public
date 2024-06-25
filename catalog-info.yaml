@@ -4,6 +4,7 @@ metadata:
   name: example-backstage-public
   annotations:
     github.com/project-slug: susanta2022/example-backstage-public
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
